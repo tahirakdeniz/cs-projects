@@ -1,0 +1,20 @@
+# Muhammed Tahir Akdeniz
+# 16.10.2021
+# Quiz-1
+#
+0 read r1 # fallingTime
+1 read r2 # initialPosition
+2 read r3 # initialVelocity
+3 setn r4 -10 # gravity
+4 setn r6 2 # for division
+5 mul r5 r4 r1 # r5 = gravity*fallingTime
+6 mul r5 r5 r1 # r5 = gravity*fallingTime*fallingTime
+7 div r5 r5 r6 # r5 = gravity*fallingTime*fallingTime/2
+8 mul r7 r3 r1 # r7 = initalVelocity*fallingTime
+9 add r5 r5 r7 # r5 = (gravity*fallingTime*fallingTime/2) + initalVelocity*fallingTime
+10 add r5 r5 r2 # r5 = (gravity*fallingTime*fallingTime/2) + initalVelocity*fallingTime + initalPosition
+# r5 is finalPosition now
+#
+# Print output
+11 write r5
+12 halt

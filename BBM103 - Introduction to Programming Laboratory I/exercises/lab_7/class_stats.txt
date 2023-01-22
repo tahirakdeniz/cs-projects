@@ -1,0 +1,3 @@
+Highest grade: 99 name: Mehmet Sülün
+Lowest grade: 32 name: Emre Göz
+Average grade: 71.2 

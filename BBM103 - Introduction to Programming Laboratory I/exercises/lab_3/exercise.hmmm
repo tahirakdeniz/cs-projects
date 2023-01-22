@@ -1,0 +1,32 @@
+# Muhammed Tahir Akdeniz
+# 15.10.2021
+# Exercise
+#
+#
+# 
+0 read r1 #
+
+# constants
+1 setn r3 3 #
+2 setn r2 5 #
+
+# conditions
+3 jltzn r1 6 #
+4 jgtzn r1 9 #
+5 jeqzn r1 11 #
+
+# if x < 0 (3*x-4)
+6 mul r1 r1 r3 #
+7 addn r1 -4 #
+8 jumpn 14 #
+# else if x > 0 (x / 5)
+9 div r1 r1 r2 #
+10 jumpn 14 #
+# else (x^2+10 / 5) 
+11 mul r1 r1 r1 #
+12 addn r1 10 #
+13 div r1 r1 r2 #
+
+# result
+14 write r1 #
+15 halt #

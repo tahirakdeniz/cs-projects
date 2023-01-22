@@ -1,0 +1,41 @@
+Welcome to Assignment 3
+------------------------------
+User 'Alessia' has been added to the social network successfully
+User 'Martina' has been added to the social network successfully
+ERROR:Wrong input type for 'ANU'! -- This user already exists!!
+ERROR:Wrong input type for 'ANU'! -- This user already exists!!
+ERROR:Wrong input type for 'DEU'! -- There is no user named 'Aurora'!!
+ERROR:Wrong input type for 'DEU'! -- There is no user named 'Sara'!!
+User 'Hector' and his/her all relations have been deleted successfully
+ERROR:Wrong input type! for 'ANF'!--No user named 'Isabella' found!!
+ERROR:Wrong input type! for 'ANF'!--No user named 'Isabella' and 'Charlotte' found!
+ERROR:A  relation  between 'Nick' and 'Rose' already exists!
+Relation  between  'Alessia'  and  'Lowell' has been added successfully
+Relation  between  'Martina'  and  'Olivia' has been added successfully
+ERROR:Wrong input type! for 'DEF'!--No user named 'Ruby' found!!
+ERROR:Wrong input type! for 'DEF'!--No user named 'Amelia' and 'Mia' found!
+ERROR:No relation between 'Alex' and 'Jason' found!!
+Relation  between  'Anna'  and  'Rose' has been deleted successfully
+ERROR:Wrong input type! for 'CF'!--No user named 'Chloe' found!
+User 'Rose' has 4 friends
+ERROR:Wrong input type! for 'FPF'!--No user named 'Ava' found!
+ERROR:Wrong input type! for 'FPF'!--Maximum distance must be between 1 and 3 (1 and 3 included)
+User 'Alex' has 4 possible friends when maximum distance is 1
+These possible friends:{'Anna', 'Beatrix', 'Mary', 'Rose'}
+User 'Alex' has 11 possible friends when maximum distance is 2
+These possible friends:{'Adam', 'Albert', 'Anna', 'Arthur', 'Beatrix', 'Benedict', 'Jesse', 'Ken', 'Mary', 'Nick', 'Rose'}
+User 'Alex' has 16 possible friends when maximum distance is 3
+These possible friends:{'Adam', 'Albert', 'Anna', 'Arthur', 'Beatrix', 'Benedict', 'Jason', 'Jesse', 'Ken', 'Kevin', 'Lowell', 'Mary', 'Nick', 'Richard', 'Rose', 'Soul'}
+ERROR:Wrong input type for 'SF Error: suggest_friend() missing 1 required positional argument: 'mutuality_degree''
+Error: Mutually Degree can be just 2 or 3
+Suggestion List for 'Alex' (when MD is 2):
+'Alex' has 2 mutual friends with 'Adam', 'Albert', 'Arthur'
+'Alex' has 3 mutual friends with 'Nick'
+The suggested friends for 'Alex':'Adam', 'Albert', 'Arthur', 'Nick'
+Suggestion List for 'Alex' (when MD is 3):
+'Alex' has 3 mutual friends with 'Nick'
+The suggested friends for 'Alex':'Nick'
+Suggestion List for 'Beatrix' (when MD is 2):
+'Beatrix' has 2 mutual friends with 'Anna', 'Mary'
+'Beatrix' has not any 3 mutual friends.
+The suggested friends for 'Beatrix':'Anna', 'Mary'

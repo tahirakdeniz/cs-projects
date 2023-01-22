@@ -1,0 +1,18 @@
+Andy:Betty Dacey Hailey Ian Lou Otello
+Betty:Andy Dacey Hailey Ian Ken Lou Nadia Ryan Tom
+Camila:Emily Otello Ryan
+Dacey:Andy Betty Ian Lou Paul Ryan Tom
+Emily:Camila Ian John Lou Paul
+Frida:Ian Mary Paul Ryan 
+George:Otello Paul Tom
+Hailey:Andy Betty Ian Ken Nadia Ryan
+Ian:Andy Betty Dacey Emily Frida Hailey Lou Mary
+John:Emily Nadia
+Ken:Betty Hailey Nadia Ryan
+Lou:Andy Betty Dacey Emily Ian Ryan
+Mary:Frida Ian Otello
+Nadia:Betty Hailey John Ken Ryan Tom
+Otello:Andy Camila George Mary Paul Tom
+Paul:Dacey Emily Frida George Otello Ryan
+Ryan:Betty Camila Dacey Frida Hailey Ken Lou Nadia Paul
+Tom:Betty Dacey George Nadia Otello
