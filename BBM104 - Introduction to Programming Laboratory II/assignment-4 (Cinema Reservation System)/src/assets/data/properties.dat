@@ -1,0 +1,6 @@
+#Properties of Cinema System
+#Wed Apr 20 03:09:50 EET 2022
+maximum-error-without-getting-blocked=5
+title=HUCS Cinema Reservation System
+discount-percentage=10
+block-time=5

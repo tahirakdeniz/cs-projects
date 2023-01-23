@@ -1,0 +1,45 @@
+command:printAllItems
+{
+"electronics":
+	"refrigerator":"13000"
+	"computer":"15000","usb charger":"300"
+	"telephone":"30000"
+"food":
+	"pizza":"80"
+	"cookie":"35","sandwich":"50"
+	"cake":"40","icecream":"25","salad":"30"
+	"hamburger":"70"
+}
+command:printAllItemsInCategory	food
+{
+"food":
+	"pizza":"80"
+	"cookie":"35","sandwich":"50"
+	"cake":"40","hamburger":"80","salad":"30"
+}
+command:printItem	electronics	refrigerator
+{
+"electronics":
+	"refrigerator":"13000"
+}
+command:find	clothes	tie
+{}
+command:printAllItems
+{
+"electronics":
+	"refrigerator":"13000"
+	"computer":"15000","usb charger":"300"
+	"telephone":"30000"
+"clothes":{}
+"food":
+	"pizza":"80"
+	"cookie":"35","sandwich":"50"
+	"cake":"40","hamburger":"80","salad":"30"
+"sports":
+	"dumbbell":"200"
+	"ball":150"
+}
+command:printAllItemsInCategory	clothes
+{
+"clothes":{}
+}

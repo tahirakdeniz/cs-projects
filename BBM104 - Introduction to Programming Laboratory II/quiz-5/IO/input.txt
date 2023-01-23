@@ -1,0 +1,16 @@
+4321
+2980
+180192
+123456
+8000
+140240
+6500
+enqueFront 1
+enqueBack 2
+enqueMiddle 3
+enqueMiddle 4
+dequeFront
+dequeMiddle
+dequeMiddle
+dequeBack
+dequeFront

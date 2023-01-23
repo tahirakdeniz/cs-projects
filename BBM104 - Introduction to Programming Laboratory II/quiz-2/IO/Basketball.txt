@@ -1,0 +1,4 @@
+1.	Galatasaray	2	2	0	0	178:155	4
+2.	Bahcesehir	1	1	0	0	70:68	2
+3.	Karsiyaka	2	0	0	2	143:153	2
+4.	Fenerbahce	1	0	0	1	80:95	1

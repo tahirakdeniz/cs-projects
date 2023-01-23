@@ -1,0 +1,4 @@
+1.	Galatasaray	2	2	0	0	6:4	4
+2.	Vakifbank	2	1	0	1	5:4	4
+3.	Eczacibasi	2	1	0	1	5:5	3
+4.	Fenerbahce	2	0	0	2	3:6	1

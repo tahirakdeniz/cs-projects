@@ -1,0 +1,25 @@
+Player 1	5	6	13000	15000	Player 1 bought Kings Cross Station
+Player 2	3	4	13000	14400	Player 2 bought Whitechapel Road
+-----------------------------------------------------------------------------------------------------------
+Player 1	13000	have: Kings Cross Station
+Player 2	14400	have: Whitechapel Road
+Banker	102600
+Winner Player 2
+-----------------------------------------------------------------------------------------------------------
+Player 1	8	14	11600	14400	Player 1 bought Whitehall
+Player 2	11	15	11600	12800	Player 2 bought Northumberland Avenue
+Player 1	8	22	9400	12800	Player 1 bought The Strand
+-----------------------------------------------------------------------------------------------------------
+Player 1	9400	have: Whitehall,The Strand,Kings Cross Station
+Player 2	12800	have: Whitechapel Road,Northumberland Avenue
+Banker	107800
+Winner Player 2
+-----------------------------------------------------------------------------------------------------------
+Player 1	4	26	7400	12800	Player 1 bought Fenchurch St Station
+Player 2	6	21	7400	12800	Player 2 is in Free Parking
+-----------------------------------------------------------------------------------------------------------
+Player 1	7400	have: Whitehall,The Strand,Kings Cross Station,Fenchurch St Station
+Player 2	12800	have: Whitechapel Road,Northumberland Avenue
+Banker	109800
+Winner Player 2
+-----------------------------------------------------------------------------------------------------------

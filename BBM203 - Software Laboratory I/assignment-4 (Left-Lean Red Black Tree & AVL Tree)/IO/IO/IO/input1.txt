@@ -1,0 +1,25 @@
+insert	music	guitar	150
+insert	music	bass	200
+insert	food	fish	30
+insert	food	tacos	60
+insert	food	nachos	55
+insert	music	drum	250
+insert	music	piano	300
+printAllItems
+updateData	music	bass	250
+printItem	music	bass
+insert	food	chips	45
+insert	food	chicken	60
+insert	sports	dumbbell	200
+remove	sports	dumbbell
+printAllItemsInCategory	sports
+insert	clothes	sweatshirt	100
+insert	clothes	socks	25
+insert	clothes	jean	125
+insert	clothes	tie	35
+printAllItemsInCategory	clothes
+remove	clothes	sweatshirt
+printItem	clothes	sweatshirt
+printAllItems
+find	music	electric guitar
+find	clothes	tie

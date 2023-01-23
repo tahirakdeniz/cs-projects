@@ -1,0 +1,18 @@
+Player 1;9
+Player 2;7
+show()
+Player 1;4
+Player 2;4
+Player 1;12
+show()
+Player 2;6
+Player 1;10
+Player 2;7
+Player 1;5
+Player 2;3
+Player 1;10
+Player 2;8
+Player 1;7
+Player 2;12
+Player 1;1
+Player 2;11

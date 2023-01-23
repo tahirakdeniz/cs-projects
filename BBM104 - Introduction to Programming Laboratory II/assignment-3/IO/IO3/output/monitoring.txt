@@ -1,0 +1,82 @@
+Game grid:
+
++ + - T W S D T W S
+S W T D S W - + | T
+D \ S T W + D T W S 
+S W + D S W T S D T
+W D - - D D S + T S 
+D D S T W S D T | S 
+S W T D / W T | D T
+| D S / D D S W T S 
+- D / T W S D T W S
++ D S T W S D T W S
+
+Select coordinate or enter E to end the game: 0 0
+
+      T W S D T W S
+S W T D S W - + | T
+D \ S T W + D T W S
+S W + D S W T S D T
+W D - - D D S + T S
+D D S T W S D T | S
+S W T D / W T | D T
+| D S / D D S W T S
+- D / T W S D T W S
++ D S T W S D T W S
+
+Score: 60 points
+
+Select coordinate or enter E to end the game: 1 6
+
+      T W S       S
+S W T D S W D T W T
+D \ S T W + D T W S
+S W + D S W T S D T
+W D - - D D S + T S
+D D S T W S D T | S
+S W T D / W T | D T
+| D S / D D S W T S
+- D / T W S D T W S
++ D S T W S D T W S
+
+Score: 60 points
+
+Select coordinate or enter E to end the game: 8 2
+
+          S       S
+S W   T W W D T W T
+D \ T D S + D T W S
+S W S T W W T S D T
+W D + D S D S + T S
+D D - - D S D T | S
+S W S T W W T | D T
+| D T D D D S W T S
+- D S T W S D T W S
++ D S T W S D T W S
+
+Score: 60 points
+
+Select coordinate or enter E to end the game: 6 5
+
+                  S
+S W       S D T W T
+D \ T T W W D T W S
+S W S D S + T S D T
+W D + T W W S + T S
+D D - D S D D T | S
+S W S - D S T | D T
+| D T D D D S W T S
+- D S T W S D T W S
++ D S T W S D T W S
+
+Score: 35 points
+
+Select coordinate or enter E to end the game: E
+
+Total score: 215 points
+
+Enter name: Veli
+
+Your rank is 1/5, your score is 35 points higher than Ali
+
+Good bye!

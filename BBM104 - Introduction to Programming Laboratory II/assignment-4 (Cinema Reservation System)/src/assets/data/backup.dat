@@ -1,0 +1,637 @@
+user	gorkemakyildiz	0dQ6aC5+BxAt4xDaD0tWew==	false	false
+user	zeynepinkaya	CJQtKNp3f4Vw2Rrk4FWDJw==	false	false
+user	aliseydikeceli	kFgIYRgo9yi3xeeeCA6NDw==	false	true
+user	ilyascicekli	ORozvuy6eAfinZ1pzy7PuA==	true	true
+user	cemilzalluhoglu	kFgIYRgo9yi3xeeeCA6NDw==	false	true
+user	merveozdes	c3PylLmqJgr4YV/KdQnftw==	false	false
+user	aydinkaya	PnjHBf+gRmx4tH0w2QszCA==	true	false
+user	sevilsen	kFgIYRgo9yi3xeeeCA6NDw==	false	true
+user	admin	X03MO1qnZdYdgyfeuILPmQ==	true	true
+user	nebiyilmaz	c3PylLmqJgr4YV/KdQnftw==	false	false
+user	berranurozturk	CJQtKNp3f4Vw2Rrk4FWDJw==	false	false
+film	Avengers: Endgame	avengers_endgame.mp4	182
+hall	Avengers: Endgame	S1	70	10	8
+seat	Avengers: Endgame	S1	0	0	null	-1
+seat	Avengers: Endgame	S1	0	1	null	0
+seat	Avengers: Endgame	S1	0	2	null	0
+seat	Avengers: Endgame	S1	0	3	null	-1
+seat	Avengers: Endgame	S1	0	4	null	-1
+seat	Avengers: Endgame	S1	0	5	null	0
+seat	Avengers: Endgame	S1	0	6	null	0
+seat	Avengers: Endgame	S1	0	7	null	0
+seat	Avengers: Endgame	S1	1	0	null	0
+seat	Avengers: Endgame	S1	1	1	null	0
+seat	Avengers: Endgame	S1	1	2	null	0
+seat	Avengers: Endgame	S1	1	3	null	0
+seat	Avengers: Endgame	S1	1	4	null	0
+seat	Avengers: Endgame	S1	1	5	null	0
+seat	Avengers: Endgame	S1	1	6	null	0
+seat	Avengers: Endgame	S1	1	7	null	0
+seat	Avengers: Endgame	S1	2	0	null	0
+seat	Avengers: Endgame	S1	2	1	null	0
+seat	Avengers: Endgame	S1	2	2	null	0
+seat	Avengers: Endgame	S1	2	3	null	0
+seat	Avengers: Endgame	S1	2	4	null	0
+seat	Avengers: Endgame	S1	2	5	null	0
+seat	Avengers: Endgame	S1	2	6	null	0
+seat	Avengers: Endgame	S1	2	7	null	0
+seat	Avengers: Endgame	S1	3	0	null	0
+seat	Avengers: Endgame	S1	3	1	null	0
+seat	Avengers: Endgame	S1	3	2	null	0
+seat	Avengers: Endgame	S1	3	3	null	0
+seat	Avengers: Endgame	S1	3	4	null	0
+seat	Avengers: Endgame	S1	3	5	null	0
+seat	Avengers: Endgame	S1	3	6	null	0
+seat	Avengers: Endgame	S1	3	7	null	0
+seat	Avengers: Endgame	S1	4	0	null	0
+seat	Avengers: Endgame	S1	4	1	null	0
+seat	Avengers: Endgame	S1	4	2	null	0
+seat	Avengers: Endgame	S1	4	3	aliseydikeceli	70
+seat	Avengers: Endgame	S1	4	4	aydinkaya	63
+seat	Avengers: Endgame	S1	4	5	null	0
+seat	Avengers: Endgame	S1	4	6	null	0
+seat	Avengers: Endgame	S1	4	7	null	0
+seat	Avengers: Endgame	S1	5	0	null	0
+seat	Avengers: Endgame	S1	5	1	null	0
+seat	Avengers: Endgame	S1	5	2	null	0
+seat	Avengers: Endgame	S1	5	3	null	0
+seat	Avengers: Endgame	S1	5	4	null	0
+seat	Avengers: Endgame	S1	5	5	null	0
+seat	Avengers: Endgame	S1	5	6	null	0
+seat	Avengers: Endgame	S1	5	7	null	0
+seat	Avengers: Endgame	S1	6	0	null	0
+seat	Avengers: Endgame	S1	6	1	null	0
+seat	Avengers: Endgame	S1	6	2	null	0
+seat	Avengers: Endgame	S1	6	3	null	0
+seat	Avengers: Endgame	S1	6	4	null	0
+seat	Avengers: Endgame	S1	6	5	null	0
+seat	Avengers: Endgame	S1	6	6	null	0
+seat	Avengers: Endgame	S1	6	7	null	0
+seat	Avengers: Endgame	S1	7	0	null	0
+seat	Avengers: Endgame	S1	7	1	null	0
+seat	Avengers: Endgame	S1	7	2	null	0
+seat	Avengers: Endgame	S1	7	3	null	0
+seat	Avengers: Endgame	S1	7	4	null	0
+seat	Avengers: Endgame	S1	7	5	null	0
+seat	Avengers: Endgame	S1	7	6	null	-1
+seat	Avengers: Endgame	S1	7	7	null	0
+seat	Avengers: Endgame	S1	8	0	null	0
+seat	Avengers: Endgame	S1	8	1	null	0
+seat	Avengers: Endgame	S1	8	2	null	0
+seat	Avengers: Endgame	S1	8	3	null	0
+seat	Avengers: Endgame	S1	8	4	null	0
+seat	Avengers: Endgame	S1	8	5	null	0
+seat	Avengers: Endgame	S1	8	6	null	0
+seat	Avengers: Endgame	S1	8	7	null	0
+seat	Avengers: Endgame	S1	9	0	null	0
+seat	Avengers: Endgame	S1	9	1	null	0
+seat	Avengers: Endgame	S1	9	2	null	0
+seat	Avengers: Endgame	S1	9	3	null	0
+seat	Avengers: Endgame	S1	9	4	null	0
+seat	Avengers: Endgame	S1	9	5	null	0
+seat	Avengers: Endgame	S1	9	6	null	0
+seat	Avengers: Endgame	S1	9	7	null	-1
+film	Doctor Strange in the Multiverse of Madness	doctor_strange_in_the_multiverse_of_madness.mp4	126
+hall	Doctor Strange in the Multiverse of Madness	S2	60	8	9
+seat	Doctor Strange in the Multiverse of Madness	S2	0	0	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	0	1	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	0	2	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	0	3	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	0	4	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	0	5	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	0	6	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	0	7	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	0	8	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	1	0	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	1	1	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	1	2	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	1	3	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	1	4	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	1	5	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	1	6	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	1	7	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	1	8	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	2	0	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	2	1	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	2	2	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	2	3	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	2	4	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	2	5	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	2	6	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	2	7	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	2	8	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	3	0	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	3	1	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	3	2	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	3	3	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	3	4	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	3	5	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	3	6	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	3	7	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	3	8	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	4	0	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	4	1	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	4	2	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	4	3	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	4	4	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	4	5	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	4	6	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	4	7	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	4	8	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	5	0	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	5	1	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	5	2	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	5	3	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	5	4	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	5	5	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	5	6	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	5	7	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	5	8	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	6	0	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	6	1	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	6	2	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	6	3	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	6	4	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	6	5	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	6	6	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	6	7	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	6	8	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	7	0	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	7	1	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	7	2	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	7	3	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	7	4	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	7	5	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	7	6	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	7	7	null	0
+seat	Doctor Strange in the Multiverse of Madness	S2	7	8	null	0
+film	Fantastic Beasts: The Secrets of Dumbledore	fantastic_beasts_the_secrets_of_dumbledore.mp4	143
+hall	Fantastic Beasts: The Secrets of Dumbledore	S3	65	7	6
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	0	0	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	0	1	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	0	2	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	0	3	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	0	4	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	0	5	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	1	0	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	1	1	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	1	2	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	1	3	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	1	4	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	1	5	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	2	0	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	2	1	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	2	2	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	2	3	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	2	4	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	2	5	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	3	0	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	3	1	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	3	2	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	3	3	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	3	4	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	3	5	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	4	0	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	4	1	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	4	2	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	4	3	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	4	4	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	4	5	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	5	0	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	5	1	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	5	2	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	5	3	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	5	4	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	5	5	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	6	0	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	6	1	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	6	2	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	6	3	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	6	4	null	0
+seat	Fantastic Beasts: The Secrets of Dumbledore	S3	6	5	null	0
+film	The Imitation Game	the_imitation_game.mp4	114
+hall	The Imitation Game	CS Hall	45	6	8
+seat	The Imitation Game	CS Hall	0	0	null	0
+seat	The Imitation Game	CS Hall	0	1	null	0
+seat	The Imitation Game	CS Hall	0	2	null	0
+seat	The Imitation Game	CS Hall	0	3	null	0
+seat	The Imitation Game	CS Hall	0	4	null	0
+seat	The Imitation Game	CS Hall	0	5	null	0
+seat	The Imitation Game	CS Hall	0	6	null	0
+seat	The Imitation Game	CS Hall	0	7	null	0
+seat	The Imitation Game	CS Hall	1	0	null	0
+seat	The Imitation Game	CS Hall	1	1	null	0
+seat	The Imitation Game	CS Hall	1	2	null	0
+seat	The Imitation Game	CS Hall	1	3	null	0
+seat	The Imitation Game	CS Hall	1	4	null	0
+seat	The Imitation Game	CS Hall	1	5	null	0
+seat	The Imitation Game	CS Hall	1	6	null	0
+seat	The Imitation Game	CS Hall	1	7	null	0
+seat	The Imitation Game	CS Hall	2	0	null	0
+seat	The Imitation Game	CS Hall	2	1	null	0
+seat	The Imitation Game	CS Hall	2	2	null	0
+seat	The Imitation Game	CS Hall	2	3	null	0
+seat	The Imitation Game	CS Hall	2	4	null	0
+seat	The Imitation Game	CS Hall	2	5	null	0
+seat	The Imitation Game	CS Hall	2	6	null	0
+seat	The Imitation Game	CS Hall	2	7	null	0
+seat	The Imitation Game	CS Hall	3	0	null	0
+seat	The Imitation Game	CS Hall	3	1	null	0
+seat	The Imitation Game	CS Hall	3	2	null	0
+seat	The Imitation Game	CS Hall	3	3	null	0
+seat	The Imitation Game	CS Hall	3	4	null	0
+seat	The Imitation Game	CS Hall	3	5	null	0
+seat	The Imitation Game	CS Hall	3	6	null	0
+seat	The Imitation Game	CS Hall	3	7	null	0
+seat	The Imitation Game	CS Hall	4	0	null	0
+seat	The Imitation Game	CS Hall	4	1	null	0
+seat	The Imitation Game	CS Hall	4	2	null	0
+seat	The Imitation Game	CS Hall	4	3	null	0
+seat	The Imitation Game	CS Hall	4	4	null	0
+seat	The Imitation Game	CS Hall	4	5	null	0
+seat	The Imitation Game	CS Hall	4	6	null	0
+seat	The Imitation Game	CS Hall	4	7	null	0
+seat	The Imitation Game	CS Hall	5	0	null	0
+seat	The Imitation Game	CS Hall	5	1	null	0
+seat	The Imitation Game	CS Hall	5	2	null	0
+seat	The Imitation Game	CS Hall	5	3	null	0
+seat	The Imitation Game	CS Hall	5	4	null	0
+seat	The Imitation Game	CS Hall	5	5	null	0
+seat	The Imitation Game	CS Hall	5	6	null	0
+seat	The Imitation Game	CS Hall	5	7	null	0
+hall	The Imitation Game	Alan Turing Hall	30	10	10
+seat	The Imitation Game	Alan Turing Hall	0	0	null	0
+seat	The Imitation Game	Alan Turing Hall	0	1	null	0
+seat	The Imitation Game	Alan Turing Hall	0	2	null	0
+seat	The Imitation Game	Alan Turing Hall	0	3	null	0
+seat	The Imitation Game	Alan Turing Hall	0	4	null	0
+seat	The Imitation Game	Alan Turing Hall	0	5	null	0
+seat	The Imitation Game	Alan Turing Hall	0	6	null	0
+seat	The Imitation Game	Alan Turing Hall	0	7	null	0
+seat	The Imitation Game	Alan Turing Hall	0	8	null	0
+seat	The Imitation Game	Alan Turing Hall	0	9	null	0
+seat	The Imitation Game	Alan Turing Hall	1	0	null	0
+seat	The Imitation Game	Alan Turing Hall	1	1	null	0
+seat	The Imitation Game	Alan Turing Hall	1	2	null	0
+seat	The Imitation Game	Alan Turing Hall	1	3	null	0
+seat	The Imitation Game	Alan Turing Hall	1	4	null	0
+seat	The Imitation Game	Alan Turing Hall	1	5	null	0
+seat	The Imitation Game	Alan Turing Hall	1	6	null	0
+seat	The Imitation Game	Alan Turing Hall	1	7	null	0
+seat	The Imitation Game	Alan Turing Hall	1	8	null	0
+seat	The Imitation Game	Alan Turing Hall	1	9	null	0
+seat	The Imitation Game	Alan Turing Hall	2	0	null	0
+seat	The Imitation Game	Alan Turing Hall	2	1	null	0
+seat	The Imitation Game	Alan Turing Hall	2	2	null	0
+seat	The Imitation Game	Alan Turing Hall	2	3	null	0
+seat	The Imitation Game	Alan Turing Hall	2	4	null	0
+seat	The Imitation Game	Alan Turing Hall	2	5	null	0
+seat	The Imitation Game	Alan Turing Hall	2	6	null	0
+seat	The Imitation Game	Alan Turing Hall	2	7	null	0
+seat	The Imitation Game	Alan Turing Hall	2	8	null	0
+seat	The Imitation Game	Alan Turing Hall	2	9	null	0
+seat	The Imitation Game	Alan Turing Hall	3	0	null	0
+seat	The Imitation Game	Alan Turing Hall	3	1	null	0
+seat	The Imitation Game	Alan Turing Hall	3	2	null	0
+seat	The Imitation Game	Alan Turing Hall	3	3	null	0
+seat	The Imitation Game	Alan Turing Hall	3	4	null	0
+seat	The Imitation Game	Alan Turing Hall	3	5	null	0
+seat	The Imitation Game	Alan Turing Hall	3	6	null	0
+seat	The Imitation Game	Alan Turing Hall	3	7	null	0
+seat	The Imitation Game	Alan Turing Hall	3	8	null	0
+seat	The Imitation Game	Alan Turing Hall	3	9	null	0
+seat	The Imitation Game	Alan Turing Hall	4	0	null	0
+seat	The Imitation Game	Alan Turing Hall	4	1	null	0
+seat	The Imitation Game	Alan Turing Hall	4	2	null	0
+seat	The Imitation Game	Alan Turing Hall	4	3	null	0
+seat	The Imitation Game	Alan Turing Hall	4	4	null	0
+seat	The Imitation Game	Alan Turing Hall	4	5	null	0
+seat	The Imitation Game	Alan Turing Hall	4	6	null	0
+seat	The Imitation Game	Alan Turing Hall	4	7	null	0
+seat	The Imitation Game	Alan Turing Hall	4	8	null	0
+seat	The Imitation Game	Alan Turing Hall	4	9	null	0
+seat	The Imitation Game	Alan Turing Hall	5	0	null	0
+seat	The Imitation Game	Alan Turing Hall	5	1	null	0
+seat	The Imitation Game	Alan Turing Hall	5	2	null	0
+seat	The Imitation Game	Alan Turing Hall	5	3	null	0
+seat	The Imitation Game	Alan Turing Hall	5	4	null	0
+seat	The Imitation Game	Alan Turing Hall	5	5	null	0
+seat	The Imitation Game	Alan Turing Hall	5	6	null	0
+seat	The Imitation Game	Alan Turing Hall	5	7	null	0
+seat	The Imitation Game	Alan Turing Hall	5	8	null	0
+seat	The Imitation Game	Alan Turing Hall	5	9	null	0
+seat	The Imitation Game	Alan Turing Hall	6	0	null	0
+seat	The Imitation Game	Alan Turing Hall	6	1	null	0
+seat	The Imitation Game	Alan Turing Hall	6	2	null	0
+seat	The Imitation Game	Alan Turing Hall	6	3	null	0
+seat	The Imitation Game	Alan Turing Hall	6	4	null	0
+seat	The Imitation Game	Alan Turing Hall	6	5	null	0
+seat	The Imitation Game	Alan Turing Hall	6	6	null	0
+seat	The Imitation Game	Alan Turing Hall	6	7	null	0
+seat	The Imitation Game	Alan Turing Hall	6	8	null	0
+seat	The Imitation Game	Alan Turing Hall	6	9	null	0
+seat	The Imitation Game	Alan Turing Hall	7	0	null	0
+seat	The Imitation Game	Alan Turing Hall	7	1	null	0
+seat	The Imitation Game	Alan Turing Hall	7	2	null	0
+seat	The Imitation Game	Alan Turing Hall	7	3	null	0
+seat	The Imitation Game	Alan Turing Hall	7	4	null	0
+seat	The Imitation Game	Alan Turing Hall	7	5	null	0
+seat	The Imitation Game	Alan Turing Hall	7	6	null	0
+seat	The Imitation Game	Alan Turing Hall	7	7	null	0
+seat	The Imitation Game	Alan Turing Hall	7	8	null	0
+seat	The Imitation Game	Alan Turing Hall	7	9	null	0
+seat	The Imitation Game	Alan Turing Hall	8	0	null	0
+seat	The Imitation Game	Alan Turing Hall	8	1	null	0
+seat	The Imitation Game	Alan Turing Hall	8	2	null	0
+seat	The Imitation Game	Alan Turing Hall	8	3	null	0
+seat	The Imitation Game	Alan Turing Hall	8	4	null	0
+seat	The Imitation Game	Alan Turing Hall	8	5	null	0
+seat	The Imitation Game	Alan Turing Hall	8	6	null	0
+seat	The Imitation Game	Alan Turing Hall	8	7	null	0
+seat	The Imitation Game	Alan Turing Hall	8	8	null	0
+seat	The Imitation Game	Alan Turing Hall	8	9	null	0
+seat	The Imitation Game	Alan Turing Hall	9	0	null	0
+seat	The Imitation Game	Alan Turing Hall	9	1	null	0
+seat	The Imitation Game	Alan Turing Hall	9	2	null	0
+seat	The Imitation Game	Alan Turing Hall	9	3	null	0
+seat	The Imitation Game	Alan Turing Hall	9	4	null	0
+seat	The Imitation Game	Alan Turing Hall	9	5	null	0
+seat	The Imitation Game	Alan Turing Hall	9	6	null	0
+seat	The Imitation Game	Alan Turing Hall	9	7	null	0
+seat	The Imitation Game	Alan Turing Hall	9	8	null	0
+seat	The Imitation Game	Alan Turing Hall	9	9	null	0
+hall	The Imitation Game	HUCS Seminar Hall	10	10	10
+seat	The Imitation Game	HUCS Seminar Hall	0	0	null	0
+seat	The Imitation Game	HUCS Seminar Hall	0	1	null	0
+seat	The Imitation Game	HUCS Seminar Hall	0	2	null	0
+seat	The Imitation Game	HUCS Seminar Hall	0	3	null	0
+seat	The Imitation Game	HUCS Seminar Hall	0	4	null	0
+seat	The Imitation Game	HUCS Seminar Hall	0	5	null	0
+seat	The Imitation Game	HUCS Seminar Hall	0	6	null	0
+seat	The Imitation Game	HUCS Seminar Hall	0	7	null	0
+seat	The Imitation Game	HUCS Seminar Hall	0	8	null	0
+seat	The Imitation Game	HUCS Seminar Hall	0	9	null	0
+seat	The Imitation Game	HUCS Seminar Hall	1	0	null	0
+seat	The Imitation Game	HUCS Seminar Hall	1	1	null	0
+seat	The Imitation Game	HUCS Seminar Hall	1	2	null	0
+seat	The Imitation Game	HUCS Seminar Hall	1	3	null	0
+seat	The Imitation Game	HUCS Seminar Hall	1	4	null	0
+seat	The Imitation Game	HUCS Seminar Hall	1	5	null	0
+seat	The Imitation Game	HUCS Seminar Hall	1	6	null	0
+seat	The Imitation Game	HUCS Seminar Hall	1	7	null	0
+seat	The Imitation Game	HUCS Seminar Hall	1	8	null	0
+seat	The Imitation Game	HUCS Seminar Hall	1	9	null	0
+seat	The Imitation Game	HUCS Seminar Hall	2	0	null	0
+seat	The Imitation Game	HUCS Seminar Hall	2	1	null	0
+seat	The Imitation Game	HUCS Seminar Hall	2	2	null	0
+seat	The Imitation Game	HUCS Seminar Hall	2	3	null	0
+seat	The Imitation Game	HUCS Seminar Hall	2	4	ilyascicekli	9
+seat	The Imitation Game	HUCS Seminar Hall	2	5	ilyascicekli	9
+seat	The Imitation Game	HUCS Seminar Hall	2	6	null	0
+seat	The Imitation Game	HUCS Seminar Hall	2	7	null	0
+seat	The Imitation Game	HUCS Seminar Hall	2	8	null	0
+seat	The Imitation Game	HUCS Seminar Hall	2	9	null	0
+seat	The Imitation Game	HUCS Seminar Hall	3	0	null	0
+seat	The Imitation Game	HUCS Seminar Hall	3	1	null	0
+seat	The Imitation Game	HUCS Seminar Hall	3	2	null	0
+seat	The Imitation Game	HUCS Seminar Hall	3	3	null	0
+seat	The Imitation Game	HUCS Seminar Hall	3	4	nebiyilmaz	10
+seat	The Imitation Game	HUCS Seminar Hall	3	5	merveozdes	10
+seat	The Imitation Game	HUCS Seminar Hall	3	6	cemilzalluhoglu	10
+seat	The Imitation Game	HUCS Seminar Hall	3	7	null	0
+seat	The Imitation Game	HUCS Seminar Hall	3	8	null	0
+seat	The Imitation Game	HUCS Seminar Hall	3	9	null	0
+seat	The Imitation Game	HUCS Seminar Hall	4	0	null	0
+seat	The Imitation Game	HUCS Seminar Hall	4	1	null	0
+seat	The Imitation Game	HUCS Seminar Hall	4	2	aydinkaya	9
+seat	The Imitation Game	HUCS Seminar Hall	4	3	aliseydikeceli	10
+seat	The Imitation Game	HUCS Seminar Hall	4	4	gorkemakyildiz	10
+seat	The Imitation Game	HUCS Seminar Hall	4	5	berranurozturk	10
+seat	The Imitation Game	HUCS Seminar Hall	4	6	zeynepinkaya	10
+seat	The Imitation Game	HUCS Seminar Hall	4	7	sevilsen	10
+seat	The Imitation Game	HUCS Seminar Hall	4	8	null	0
+seat	The Imitation Game	HUCS Seminar Hall	4	9	null	0
+seat	The Imitation Game	HUCS Seminar Hall	5	0	null	0
+seat	The Imitation Game	HUCS Seminar Hall	5	1	null	0
+seat	The Imitation Game	HUCS Seminar Hall	5	2	null	0
+seat	The Imitation Game	HUCS Seminar Hall	5	3	null	0
+seat	The Imitation Game	HUCS Seminar Hall	5	4	null	0
+seat	The Imitation Game	HUCS Seminar Hall	5	5	null	0
+seat	The Imitation Game	HUCS Seminar Hall	5	6	null	0
+seat	The Imitation Game	HUCS Seminar Hall	5	7	null	0
+seat	The Imitation Game	HUCS Seminar Hall	5	8	null	0
+seat	The Imitation Game	HUCS Seminar Hall	5	9	null	0
+seat	The Imitation Game	HUCS Seminar Hall	6	0	null	0
+seat	The Imitation Game	HUCS Seminar Hall	6	1	null	0
+seat	The Imitation Game	HUCS Seminar Hall	6	2	null	0
+seat	The Imitation Game	HUCS Seminar Hall	6	3	null	0
+seat	The Imitation Game	HUCS Seminar Hall	6	4	null	0
+seat	The Imitation Game	HUCS Seminar Hall	6	5	null	0
+seat	The Imitation Game	HUCS Seminar Hall	6	6	null	0
+seat	The Imitation Game	HUCS Seminar Hall	6	7	null	0
+seat	The Imitation Game	HUCS Seminar Hall	6	8	null	0
+seat	The Imitation Game	HUCS Seminar Hall	6	9	null	0
+seat	The Imitation Game	HUCS Seminar Hall	7	0	null	0
+seat	The Imitation Game	HUCS Seminar Hall	7	1	null	0
+seat	The Imitation Game	HUCS Seminar Hall	7	2	null	0
+seat	The Imitation Game	HUCS Seminar Hall	7	3	null	0
+seat	The Imitation Game	HUCS Seminar Hall	7	4	null	0
+seat	The Imitation Game	HUCS Seminar Hall	7	5	null	0
+seat	The Imitation Game	HUCS Seminar Hall	7	6	null	0
+seat	The Imitation Game	HUCS Seminar Hall	7	7	null	0
+seat	The Imitation Game	HUCS Seminar Hall	7	8	null	0
+seat	The Imitation Game	HUCS Seminar Hall	7	9	null	0
+seat	The Imitation Game	HUCS Seminar Hall	8	0	null	0
+seat	The Imitation Game	HUCS Seminar Hall	8	1	null	0
+seat	The Imitation Game	HUCS Seminar Hall	8	2	null	0
+seat	The Imitation Game	HUCS Seminar Hall	8	3	null	0
+seat	The Imitation Game	HUCS Seminar Hall	8	4	null	0
+seat	The Imitation Game	HUCS Seminar Hall	8	5	null	0
+seat	The Imitation Game	HUCS Seminar Hall	8	6	null	0
+seat	The Imitation Game	HUCS Seminar Hall	8	7	null	0
+seat	The Imitation Game	HUCS Seminar Hall	8	8	null	0
+seat	The Imitation Game	HUCS Seminar Hall	8	9	null	0
+seat	The Imitation Game	HUCS Seminar Hall	9	0	null	0
+seat	The Imitation Game	HUCS Seminar Hall	9	1	null	0
+seat	The Imitation Game	HUCS Seminar Hall	9	2	null	0
+seat	The Imitation Game	HUCS Seminar Hall	9	3	null	0
+seat	The Imitation Game	HUCS Seminar Hall	9	4	null	0
+seat	The Imitation Game	HUCS Seminar Hall	9	5	null	0
+seat	The Imitation Game	HUCS Seminar Hall	9	6	null	0
+seat	The Imitation Game	HUCS Seminar Hall	9	7	null	0
+seat	The Imitation Game	HUCS Seminar Hall	9	8	null	0
+seat	The Imitation Game	HUCS Seminar Hall	9	9	null	0
+film	The Batman	the_batman.mp4	176
+hall	The Batman	S5	80	6	8
+seat	The Batman	S5	0	0	null	0
+seat	The Batman	S5	0	1	null	0
+seat	The Batman	S5	0	2	null	0
+seat	The Batman	S5	0	3	null	0
+seat	The Batman	S5	0	4	null	0
+seat	The Batman	S5	0	5	null	0
+seat	The Batman	S5	0	6	null	0
+seat	The Batman	S5	0	7	null	0
+seat	The Batman	S5	1	0	null	0
+seat	The Batman	S5	1	1	null	0
+seat	The Batman	S5	1	2	null	0
+seat	The Batman	S5	1	3	null	0
+seat	The Batman	S5	1	4	null	0
+seat	The Batman	S5	1	5	null	0
+seat	The Batman	S5	1	6	null	0
+seat	The Batman	S5	1	7	null	0
+seat	The Batman	S5	2	0	null	0
+seat	The Batman	S5	2	1	null	0
+seat	The Batman	S5	2	2	null	0
+seat	The Batman	S5	2	3	null	0
+seat	The Batman	S5	2	4	null	0
+seat	The Batman	S5	2	5	null	0
+seat	The Batman	S5	2	6	null	0
+seat	The Batman	S5	2	7	null	0
+seat	The Batman	S5	3	0	null	0
+seat	The Batman	S5	3	1	null	0
+seat	The Batman	S5	3	2	null	0
+seat	The Batman	S5	3	3	null	0
+seat	The Batman	S5	3	4	null	0
+seat	The Batman	S5	3	5	null	0
+seat	The Batman	S5	3	6	null	0
+seat	The Batman	S5	3	7	null	0
+seat	The Batman	S5	4	0	null	0
+seat	The Batman	S5	4	1	null	0
+seat	The Batman	S5	4	2	null	0
+seat	The Batman	S5	4	3	null	0
+seat	The Batman	S5	4	4	null	0
+seat	The Batman	S5	4	5	null	0
+seat	The Batman	S5	4	6	null	0
+seat	The Batman	S5	4	7	null	0
+seat	The Batman	S5	5	0	null	0
+seat	The Batman	S5	5	1	null	0
+seat	The Batman	S5	5	2	null	0
+seat	The Batman	S5	5	3	null	0
+seat	The Batman	S5	5	4	null	0
+seat	The Batman	S5	5	5	null	0
+seat	The Batman	S5	5	6	null	0
+seat	The Batman	S5	5	7	null	0
+film	Sonic the Hedgehog 2	sonic_the_hedgehog_2.mp4	122
+hall	Sonic the Hedgehog 2	Child Hall	120	10	9
+seat	Sonic the Hedgehog 2	Child Hall	0	0	null	0
+seat	Sonic the Hedgehog 2	Child Hall	0	1	null	0
+seat	Sonic the Hedgehog 2	Child Hall	0	2	null	0
+seat	Sonic the Hedgehog 2	Child Hall	0	3	null	0
+seat	Sonic the Hedgehog 2	Child Hall	0	4	null	0
+seat	Sonic the Hedgehog 2	Child Hall	0	5	null	0
+seat	Sonic the Hedgehog 2	Child Hall	0	6	null	0
+seat	Sonic the Hedgehog 2	Child Hall	0	7	null	0
+seat	Sonic the Hedgehog 2	Child Hall	0	8	null	0
+seat	Sonic the Hedgehog 2	Child Hall	1	0	null	0
+seat	Sonic the Hedgehog 2	Child Hall	1	1	null	0
+seat	Sonic the Hedgehog 2	Child Hall	1	2	null	0
+seat	Sonic the Hedgehog 2	Child Hall	1	3	null	0
+seat	Sonic the Hedgehog 2	Child Hall	1	4	null	0
+seat	Sonic the Hedgehog 2	Child Hall	1	5	null	0
+seat	Sonic the Hedgehog 2	Child Hall	1	6	null	0
+seat	Sonic the Hedgehog 2	Child Hall	1	7	null	0
+seat	Sonic the Hedgehog 2	Child Hall	1	8	null	0
+seat	Sonic the Hedgehog 2	Child Hall	2	0	null	0
+seat	Sonic the Hedgehog 2	Child Hall	2	1	null	0
+seat	Sonic the Hedgehog 2	Child Hall	2	2	null	0
+seat	Sonic the Hedgehog 2	Child Hall	2	3	merveozdes	120
+seat	Sonic the Hedgehog 2	Child Hall	2	4	gorkemakyildiz	120
+seat	Sonic the Hedgehog 2	Child Hall	2	5	berranurozturk	120
+seat	Sonic the Hedgehog 2	Child Hall	2	6	nebiyilmaz	120
+seat	Sonic the Hedgehog 2	Child Hall	2	7	null	0
+seat	Sonic the Hedgehog 2	Child Hall	2	8	null	0
+seat	Sonic the Hedgehog 2	Child Hall	3	0	null	0
+seat	Sonic the Hedgehog 2	Child Hall	3	1	null	0
+seat	Sonic the Hedgehog 2	Child Hall	3	2	null	0
+seat	Sonic the Hedgehog 2	Child Hall	3	3	null	0
+seat	Sonic the Hedgehog 2	Child Hall	3	4	null	0
+seat	Sonic the Hedgehog 2	Child Hall	3	5	null	0
+seat	Sonic the Hedgehog 2	Child Hall	3	6	null	0
+seat	Sonic the Hedgehog 2	Child Hall	3	7	null	0
+seat	Sonic the Hedgehog 2	Child Hall	3	8	null	0
+seat	Sonic the Hedgehog 2	Child Hall	4	0	null	0
+seat	Sonic the Hedgehog 2	Child Hall	4	1	null	0
+seat	Sonic the Hedgehog 2	Child Hall	4	2	null	0
+seat	Sonic the Hedgehog 2	Child Hall	4	3	null	0
+seat	Sonic the Hedgehog 2	Child Hall	4	4	null	0
+seat	Sonic the Hedgehog 2	Child Hall	4	5	null	0
+seat	Sonic the Hedgehog 2	Child Hall	4	6	null	0
+seat	Sonic the Hedgehog 2	Child Hall	4	7	null	0
+seat	Sonic the Hedgehog 2	Child Hall	4	8	null	0
+seat	Sonic the Hedgehog 2	Child Hall	5	0	null	0
+seat	Sonic the Hedgehog 2	Child Hall	5	1	null	0
+seat	Sonic the Hedgehog 2	Child Hall	5	2	null	0
+seat	Sonic the Hedgehog 2	Child Hall	5	3	null	0
+seat	Sonic the Hedgehog 2	Child Hall	5	4	null	0
+seat	Sonic the Hedgehog 2	Child Hall	5	5	null	0
+seat	Sonic the Hedgehog 2	Child Hall	5	6	null	0
+seat	Sonic the Hedgehog 2	Child Hall	5	7	null	0
+seat	Sonic the Hedgehog 2	Child Hall	5	8	null	0
+seat	Sonic the Hedgehog 2	Child Hall	6	0	null	0
+seat	Sonic the Hedgehog 2	Child Hall	6	1	null	0
+seat	Sonic the Hedgehog 2	Child Hall	6	2	null	0
+seat	Sonic the Hedgehog 2	Child Hall	6	3	null	0
+seat	Sonic the Hedgehog 2	Child Hall	6	4	null	0
+seat	Sonic the Hedgehog 2	Child Hall	6	5	null	0
+seat	Sonic the Hedgehog 2	Child Hall	6	6	null	0
+seat	Sonic the Hedgehog 2	Child Hall	6	7	null	0
+seat	Sonic the Hedgehog 2	Child Hall	6	8	null	0
+seat	Sonic the Hedgehog 2	Child Hall	7	0	null	0
+seat	Sonic the Hedgehog 2	Child Hall	7	1	null	0
+seat	Sonic the Hedgehog 2	Child Hall	7	2	null	0
+seat	Sonic the Hedgehog 2	Child Hall	7	3	null	0
+seat	Sonic the Hedgehog 2	Child Hall	7	4	null	0
+seat	Sonic the Hedgehog 2	Child Hall	7	5	null	0
+seat	Sonic the Hedgehog 2	Child Hall	7	6	null	0
+seat	Sonic the Hedgehog 2	Child Hall	7	7	null	0
+seat	Sonic the Hedgehog 2	Child Hall	7	8	null	0
+seat	Sonic the Hedgehog 2	Child Hall	8	0	null	0
+seat	Sonic the Hedgehog 2	Child Hall	8	1	null	0
+seat	Sonic the Hedgehog 2	Child Hall	8	2	null	0
+seat	Sonic the Hedgehog 2	Child Hall	8	3	null	0
+seat	Sonic the Hedgehog 2	Child Hall	8	4	null	0
+seat	Sonic the Hedgehog 2	Child Hall	8	5	null	0
+seat	Sonic the Hedgehog 2	Child Hall	8	6	null	0
+seat	Sonic the Hedgehog 2	Child Hall	8	7	null	0
+seat	Sonic the Hedgehog 2	Child Hall	8	8	null	0
+seat	Sonic the Hedgehog 2	Child Hall	9	0	null	0
+seat	Sonic the Hedgehog 2	Child Hall	9	1	null	0
+seat	Sonic the Hedgehog 2	Child Hall	9	2	null	0
+seat	Sonic the Hedgehog 2	Child Hall	9	3	null	0
+seat	Sonic the Hedgehog 2	Child Hall	9	4	null	0
+seat	Sonic the Hedgehog 2	Child Hall	9	5	null	0
+seat	Sonic the Hedgehog 2	Child Hall	9	6	null	0
+seat	Sonic the Hedgehog 2	Child Hall	9	7	null	0
+seat	Sonic the Hedgehog 2	Child Hall	9	8	null	0
+film	Spider-Man: No Way Home	spider_man_no_way_home.mp4	148
+hall	Spider-Man: No Way Home	S4	95	6	5
+seat	Spider-Man: No Way Home	S4	0	0	null	0
+seat	Spider-Man: No Way Home	S4	0	1	null	0
+seat	Spider-Man: No Way Home	S4	0	2	null	0
+seat	Spider-Man: No Way Home	S4	0	3	null	0
+seat	Spider-Man: No Way Home	S4	0	4	null	0
+seat	Spider-Man: No Way Home	S4	1	0	null	0
+seat	Spider-Man: No Way Home	S4	1	1	aydinkaya	86
+seat	Spider-Man: No Way Home	S4	1	2	aydinkaya	86
+seat	Spider-Man: No Way Home	S4	1	3	aydinkaya	86
+seat	Spider-Man: No Way Home	S4	1	4	null	0
+seat	Spider-Man: No Way Home	S4	2	0	null	0
+seat	Spider-Man: No Way Home	S4	2	1	aliseydikeceli	95
+seat	Spider-Man: No Way Home	S4	2	2	aliseydikeceli	95
+seat	Spider-Man: No Way Home	S4	2	3	aliseydikeceli	95
+seat	Spider-Man: No Way Home	S4	2	4	null	0
+seat	Spider-Man: No Way Home	S4	3	0	null	0
+seat	Spider-Man: No Way Home	S4	3	1	null	0
+seat	Spider-Man: No Way Home	S4	3	2	null	0
+seat	Spider-Man: No Way Home	S4	3	3	null	0
+seat	Spider-Man: No Way Home	S4	3	4	null	0
+seat	Spider-Man: No Way Home	S4	4	0	null	0
+seat	Spider-Man: No Way Home	S4	4	1	null	0
+seat	Spider-Man: No Way Home	S4	4	2	null	0
+seat	Spider-Man: No Way Home	S4	4	3	null	0
+seat	Spider-Man: No Way Home	S4	4	4	null	0
+seat	Spider-Man: No Way Home	S4	5	0	null	0
+seat	Spider-Man: No Way Home	S4	5	1	null	0
+seat	Spider-Man: No Way Home	S4	5	2	null	0
+seat	Spider-Man: No Way Home	S4	5	3	null	0
+seat	Spider-Man: No Way Home	S4	5	4	null	0

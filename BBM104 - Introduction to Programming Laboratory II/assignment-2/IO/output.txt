@@ -1,0 +1,22 @@
+Player 1	9	10	13800	15000	Player 1 bought Pentonville Road
+Player 2	5	6	13800	13000	Player 2 bought King Cross Station
+-------------------------------------------------------------------------------------------------------------------------
+Player 1	13800	have: Pentonville Road
+Player 2	13000	have: King Cross Station
+Banker	103200
+Winner	Player 1
+----------------------------------------------------------------------------------------------------------------------------
+Player 1	4	14	12400	13000 	Player 1 bought Whitehall
+Player 2	4	10	12880	12520	Player 2 paid rent for Pentonville Road
+Player 1	4	1	13080	12520	Player 1 draw Community Chest -advance to go 
+Player 2	6	16	13080	10520	Player 2 bought Marylebone Station
+Player 1	10	11	13080	10520	Player 1 went to jail
+Player 2	7	1	13080	10720	Player 2 advance to go (collect 200)
+Player 1	5	11	13080	10720	Player 1 in jail (count=1)
+Player 2	3	4	13080	10120	Player 2 bought Whitechapel Road
+-------------------------------------------------------------------------------------------------------------------------
+Player 1	13080	have: Pentonville Road, Whitehall
+Player 2	10120	have: King Cross Station, Marylebone Station, Whitechapel Road
+Banker	106800
+Winner	Player 1
+---------------------------------------------------------------------------------------------------------------------

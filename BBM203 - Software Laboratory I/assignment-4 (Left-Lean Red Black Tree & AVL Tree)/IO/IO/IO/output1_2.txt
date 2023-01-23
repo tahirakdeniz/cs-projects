@@ -1,0 +1,50 @@
+command:printAllItems
+{
+"music":
+	"drum":"250"
+	"bass":"200","piano":"300"
+	"guitar":"150"
+"food":
+	"nachos":"55"
+	"fish":"30","tacos":"60"
+}
+command:printItem	music	bass
+{
+"music":
+	"bass":"250"
+}
+command:printAllItemsInCategory	sports
+{
+"sports":{}
+}
+command:printAllItemsInCategory	clothes
+{
+"clothes":
+	"socks":"25"
+	"jean":"125","tie":"35"
+	"sweatshirt":"100"
+}
+command:printItem	clothes	sweatshirt
+{}
+command:printAllItems
+{
+"music":
+	"drum":"250"
+	"bass":"250","piano":"300"
+	"guitar":"150"
+"food":
+	"nachos":"55"
+	"chips":"45","tacos":"60"
+	"chicken":"60","fish":"30"
+"sports":{}
+"clothes":
+	"socks":"25"
+	"jean":"125","tie":"35"
+}
+command:find	music	electric guitar
+{}
+command:find	clothes	tie
+{
+"clothes":
+	"tie":"35"
+}

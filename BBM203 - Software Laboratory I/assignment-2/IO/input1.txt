@@ -1,0 +1,31 @@
+add_apartment	X	head	50
+add_apartment	Z	after_X	75
+add_apartment	Y	before_Z	100
+add_apartment	Q	after_Z	150
+add_apartment	P	after_Q	75
+add_apartment	R	before_Y	125
+add_apartment	S	before_P	100
+add_apartment	T	before_Z	50
+add_flat	X	0	25	1
+add_flat	X	1	20	4
+add_flat	Z	0	20	9
+add_flat	Z	1	10	7
+add_flat	Z	2	15	11
+add_flat	Z	1	45	2
+add_flat	Q	0	45	10
+add_flat	Q	1	30	12
+add_flat	Q	1	25	13
+remove_apartment	Y
+add_flat	R	0	25	14
+add_flat	R	0	30	15
+add_flat	T	0	55	16
+merge_two_apartments	T	R
+merge_two_apartments	X	P
+add_flat	S	0	35	17
+add_flat	S	1	25	18
+find_sum_of_max_bandwidths
+list_apartments
+make_flat_empty	Z	2
+make_flat_empty	Q	10
+relocate_flats_to_same_apartment	S	17	[4,2,13]
+list_apartments

@@ -1,0 +1,23 @@
+insert	electronics	computer	15000
+insert	electronics	telephone	30000
+insert	electronics	refrigerator	13000
+insert	food	salad	30
+insert	food	pizza	80
+insert	food	cookie	35
+insert	food	cake	40
+insert	food	hamburger	70
+insert	food	sandwich	50
+insert	food	icecream	25
+insert	electronics	usb charger	300
+printAllItems
+remove	food	icecream
+updateData	food	hamburger	80
+printAllItemsInCategory	food
+printItem	electronics	refrigerator
+find	clothes	tie
+insert	sports	dumbbell	200
+insert	sports	ball	150
+insert	clothes	jean	200
+remove	clothes	jean
+printAllItems
+printAllItemsInCategory	clothes

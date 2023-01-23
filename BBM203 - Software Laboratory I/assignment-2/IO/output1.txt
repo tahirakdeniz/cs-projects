@@ -1,0 +1,13 @@
+sum of bandwidth: 625
+
+X(125)	Flat1(25)	Flat4(20)
+T(175)	Flat16(50)	Flat15(30)	Flat14(25)
+Z(75)	Flat9(20)	Flat2(30)	Flat7(10)	Flat11(15)
+Q(150)	Flat10(45)	Flat13(25)	Flat12(30)
+S(100)	Flat17(35)	Flat18(25)
+
+X(105)	Flat1(25)
+T(175)	Flat16(50)	Flat15(30)	Flat14(25)
+Z(75)	Flat9(20)	Flat7(10)	Flat11(15)
+Q(125)	Flat10(0)	Flat12(30)
+S(145)	Flat4(20)	Flat2(0)	Flat13(25)	Flat17(35)	Flat18(25)

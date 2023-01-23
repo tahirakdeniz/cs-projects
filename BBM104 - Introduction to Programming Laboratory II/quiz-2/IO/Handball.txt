@@ -1,0 +1,4 @@
+1.	Goztepe	1	1	0	0	31:17	2
+2.	Guneysu	2	1	0	1	42:39	2
+3.	IzmirBB	2	1	0	1	38:50	2
+4.	Nilufer Bld.	1	0	0	1	18:23	0
