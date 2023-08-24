@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Send the excavator",
+    "start": "09:00",
+    "duration": 3,
+    "importance": 30,
+    "urgent": false
+  },
+  {
+    "name": "Organize school for children",
+    "start": "17:00",
+    "duration": 1,
+    "importance": 6,
+    "urgent": false
+  },
+  {
+    "name": "Distribute warm meal",
+    "start": "10:00",
+    "duration": 5,
+    "importance": 61,
+    "urgent": true
+  },
+  {
+    "name": "Pack humanitarian aid",
+    "start": "12:00",
+    "duration": 1,
+    "importance": 45,
+    "urgent": false
+  },
+  {
+    "name": "Check if all tents have a heater",
+    "start": "16:00",
+    "duration": 1,
+    "importance": 12,
+    "urgent": false
+  },
+  {
+    "name": "Register missing persons",
+    "start": "16:00",
+    "duration": 1,
+    "importance": 6,
+    "urgent": false
+  }
+]

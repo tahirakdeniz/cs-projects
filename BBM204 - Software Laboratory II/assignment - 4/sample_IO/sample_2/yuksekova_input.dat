@@ -1,0 +1,9 @@
+grid_input_file_name = "yuksekova.dat"
+num_rows = 362
+num_cols= 362
+mission_0_source = ( 45,150)
+mission_0_destination= (234, 345 )
+mission_1_source =( 170 ,180 )
+max_flying_height= 3000
+fuel_cost_per_unit= 0.1
+climbing_cost_per_unit=0.5

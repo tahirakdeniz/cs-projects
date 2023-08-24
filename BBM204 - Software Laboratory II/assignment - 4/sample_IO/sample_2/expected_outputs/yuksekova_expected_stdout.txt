@@ -1,0 +1,6 @@
+########## Mission 0 ##########
+The most cost-efficient path's size: 385
+The most cost-efficient path has a cost of: 291.0274169979699
+########## Mission 1 ##########
+The size of the escape path with the least elevation cost: 192
+The escape path has the least elevation cost of: 1863

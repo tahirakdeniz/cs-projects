@@ -1,0 +1,37 @@
+Calculating max array
+---------------------
+Called calculateMaxWeight(5)
+Called calculateMaxWeight(4)
+Called calculateMaxWeight(2)
+Called calculateMaxWeight(-1)
+Called calculateMaxWeight(1)
+Called calculateMaxWeight(0)
+Called calculateMaxWeight(-1)
+Called calculateMaxWeight(-1)
+Called calculateMaxWeight(0)
+Called calculateMaxWeight(-1)
+Called calculateMaxWeight(-1)
+Called calculateMaxWeight(3)
+Called calculateMaxWeight(2)
+Called calculateMaxWeight(2)
+Called calculateMaxWeight(4)
+
+Calculating the dynamic solution
+--------------------------------
+Called solveDynamic(5)
+Called solveDynamic(4)
+Called solveDynamic(3)
+Called solveDynamic(2)
+
+Dynamic Schedule
+----------------
+At 10:00, Distribute warm meal.
+At 16:00, Check if all tents have a heater.
+At 17:00, Organize school for children.
+
+Greedy Schedule
+---------------
+At 09:00, Send the excavator.
+At 12:00, Pack humanitarian aid.
+At 16:00, Check if all tents have a heater.
+At 17:00, Organize school for children.

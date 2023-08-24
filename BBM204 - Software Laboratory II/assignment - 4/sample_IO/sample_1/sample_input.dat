@@ -1,0 +1,9 @@
+grid_input_file_name = "Map_480x480.dat"
+    num_rows = 480
+num_cols= 480
+mission_0_source = ( 300,100)
+mission_0_destination= (400, 400 )
+mission_1_source =( 150 ,300 )
+max_flying_height= 4000
+fuel_cost_per_unit= 0.1
+climbing_cost_per_unit=0.5

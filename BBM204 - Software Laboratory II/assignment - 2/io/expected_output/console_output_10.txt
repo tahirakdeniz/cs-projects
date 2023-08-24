@@ -1,0 +1,51 @@
+Calculating max array
+---------------------
+Called calculateMaxWeight(9)
+Called calculateMaxWeight(6)
+Called calculateMaxWeight(4)
+Called calculateMaxWeight(0)
+Called calculateMaxWeight(-1)
+Called calculateMaxWeight(-1)
+Called calculateMaxWeight(3)
+Called calculateMaxWeight(1)
+Called calculateMaxWeight(0)
+Called calculateMaxWeight(-1)
+Called calculateMaxWeight(-1)
+Called calculateMaxWeight(0)
+Called calculateMaxWeight(-1)
+Called calculateMaxWeight(-1)
+Called calculateMaxWeight(2)
+Called calculateMaxWeight(-1)
+Called calculateMaxWeight(1)
+Called calculateMaxWeight(5)
+Called calculateMaxWeight(2)
+Called calculateMaxWeight(4)
+Called calculateMaxWeight(8)
+Called calculateMaxWeight(4)
+Called calculateMaxWeight(7)
+Called calculateMaxWeight(3)
+Called calculateMaxWeight(6)
+
+Calculating the dynamic solution
+--------------------------------
+Called solveDynamic(9)
+Called solveDynamic(8)
+Called solveDynamic(7)
+Called solveDynamic(3)
+Called solveDynamic(1)
+Called solveDynamic(0)
+
+Dynamic Schedule
+----------------
+At 00:00, Assignment0.
+At 01:00, Assignment2.
+At 02:00, Assignment4.
+At 03:00, Assignment6.
+
+Greedy Schedule
+---------------
+At 00:00, Assignment0.
+At 01:00, Assignment2.
+At 02:00, Assignment4.
+At 03:30, Assignment7.
+At 04:30, Assignment9.
